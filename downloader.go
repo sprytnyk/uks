@@ -7,7 +7,7 @@ import (
 	"net/http"
 )
 
-// Downloads a PDF and retuns it as a io reader.
+// Downloads a PDF and returns it as a io reader.
 func downloadPdf(url string) io.Reader {
 	response, err := http.Get(url)
 	if err != nil {
