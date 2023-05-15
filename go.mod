@@ -1,4 +1,4 @@
-module github.com/vald-phoenix/uks
+module github.com/britonad/uks
 
 go 1.16
 
