@@ -1,4 +1,4 @@
-module github.com/britonad/uks
+module github.com/sprytnyk/uks
 
 go 1.16
 

@@ -1,6 +1,6 @@
 # UKS
 
-![Example](https://raw.githubusercontent.com/britonad/uks/master/media/example.svg)
+![Example](https://raw.githubusercontent.com/sprytnyk/uks/master/media/example.svg)
 
 ## Overview
 
@@ -20,7 +20,7 @@ https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers
 ## Usage
 
 ```bash
-$ go get -u github.com/britonad/uks
+$ go get -u github.com/sprytnyk/uks
 $ uks -h
 Usage of uks:
 
